@@ -50,8 +50,8 @@ pip (Python package manager)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-digit-recognition.git
-cd ai-digit-recognition
+git clone https://github.com/TejasAntalDoon/Digit_Recognition_Model.git
+cd 
 ```
 
 2. **Create virtual environment** (recommended)
