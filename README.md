@@ -223,7 +223,7 @@ streamlit run app.py --server.port 8502
 ## 📞 Support
 
 If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/Digit_Recognition_Model/issues) page
+1. Check the [Issues](https://github.com/TejasAntalDoon/Digit_Recognition_Model.git/issues) page
 2. Create a new issue with detailed description
 3. Include error messages and system information
 
